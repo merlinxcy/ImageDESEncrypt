@@ -1,0 +1,2 @@
+# ImageDESEncrypt
+本程序将bmp格式图像中的像素点信息取出利用des加密进行信息隐藏
